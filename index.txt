@@ -1,0 +1,2 @@
+<h1>this is my repo</h1>
+<p>this exercise is for using Github and creating a new repository and add some files</p>
